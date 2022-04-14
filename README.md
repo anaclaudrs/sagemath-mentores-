@@ -1,3 +1,3 @@
 # Mentores - SageMath #
 
-Projetos desenvolvidos com o CoCalc/SageMath para o programa Mentores OBMEP, disciplina de Calculo I, 21/2.
+Some projects I did using CoCalc and SageMath for the Calculus 1 discipline of "Mentores/obmep" program, offered by the National Intitute of Mathematics.
